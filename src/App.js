@@ -17,6 +17,8 @@ function App() {
         >
           Learn React
         </a>
+
+        This website was deployed using AWS Amplify connected to github by Paul.
       </header>
     </div>
   );
